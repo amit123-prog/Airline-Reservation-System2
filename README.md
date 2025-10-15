@@ -5,5 +5,5 @@
 <li>Prabhudatta mishra</li>
 <li>Amit kumar mahapatra</li>
 <li>Nandakishor muni</li>
-<li>Omm prakash prustey</li>
+<li>Omm prakash prusty</li>
 </ul>
